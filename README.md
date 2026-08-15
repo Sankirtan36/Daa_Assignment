@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Sankirtan36/Daa_Assignment/tree/master/0415-add-strings) |
+| [0541-reverse-string-ii](https://github.com/Sankirtan36/Daa_Assignment/tree/master/0541-reverse-string-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sankirtan36/Daa_Assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sankirtan36/Daa_Assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/Sankirtan36/Daa_Assignment/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
