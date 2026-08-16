@@ -21,15 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sankirtan36/Daa_Assignment/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sankirtan36/Daa_Assignment/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sankirtan36/Daa_Assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sankirtan36/Daa_Assignment/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sankirtan36/Daa_Assignment/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sankirtan36/Daa_Assignment/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Sankirtan36/Daa_Assignment/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Sankirtan36/Daa_Assignment/tree/master/0541-reverse-string-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sankirtan36/Daa_Assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
